@@ -6,7 +6,7 @@
 
 ## 原理
 
-使用 GitHub Actions 的定时任务功能，每隔一段时间自动执行 `git commit`，提交信息为 "a commit a day keeps your girlfriend away"
+使用 GitHub Actions 的定时任务功能，每隔一段时间自动执行 `git commit`，提交信息为 "Make Program Every Day!"
 
 
 ## 使用
